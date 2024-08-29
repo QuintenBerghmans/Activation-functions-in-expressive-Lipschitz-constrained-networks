@@ -1,5 +1,5 @@
 # Activation-functions-in-expressive-Lipschitz-constrained-networks
-This repository contains the code that was used for my (Quinten Berghmans) Master's thesis on "Neural networks as differential equations: a study on the properties of expressive Lipschitz-constrained networks".
+This repository contains the code that was used for my (Quinten Berghmans) Master's thesis on "On the effect of the activation function on the adversarial robustness of neural networks".
 
 Three files can be found: 
 - "Optuna_point_classifier_optimiser.ipynb" was used to perform the optimisation of the hyperparameters, for a basic 2d case with no noise
